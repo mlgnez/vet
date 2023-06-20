@@ -15,4 +15,4 @@ You can find all versions of vet in the "Releases" tab to the right of the page.
 
 ## contributions
 
-  If for some reaosn you would like to mess around with vet, go ahead and fork the project, then mess around with main.cpp. When your done, send over a pull request. I don't know why anyone would try and even touch this codebase, but if you enjoy reading garbage code or your like a masochist, go ahead.
+  If for some reaosn you would like to mess around with vet, go ahead and fork the project, then mess around with main.cpp. When your done, send over a pull request. I don't know why anyone would try and even touch this codebase, but if you enjoy reading garbage code or you're a masochist, go ahead.
